@@ -6,5 +6,6 @@ Link to Go lecture - [Introduction to Go](https://docs.google.com/presentation/d
 
 ---------------------------------
 Links to older lectures:
+- [Git (introduction + best practices)][https://docs.google.com/presentation/d/1oBjjAnQaWUUYME7iSFAoBEJk5SC7JH3y1JpCNbfihTA/edit?usp=sharing]
 - [Scala (Monads)](https://drive.google.com/file/d/1o6nPUokqWlp78oxFfvYXnbMNCA10O4ap/view?usp=sharing)
 - [FP Basics in Scala](https://drive.google.com/file/d/1SKiLaRgv30c6XxqWFGWvDvt5ddOWeL0o/view?usp=sharing)
